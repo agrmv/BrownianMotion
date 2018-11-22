@@ -40,7 +40,7 @@ public:
 
 class tFigure : public tLocation {
 private:
-    std::pair<double, double> increment; //приращение
+    std::pair<double, double> increment;
 
 public:
     tFigure() {
