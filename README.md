@@ -1,2 +1,2 @@
 # BrownianMotion
-brownian motion with openGL
+brownian motion
